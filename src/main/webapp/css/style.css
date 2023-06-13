@@ -1,0 +1,43 @@
+.custom-bg{
+    background:#43A047!important;
+}
+
+.admin .card{
+    border: 2px solid red;
+}
+
+.admin .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+.list-group-item.active{
+    background:#43A047!important;
+}
+.btn-outline-primary{
+    background:#43A047!important;
+   
+}
+.btn-primary{
+    background:#43A047!important;
+}
+.discount-label{
+    font-size: 10px !important;
+    font-style: italic !important;
+    
+}
+
+.product-card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+.design{
+    background: #ebf5eb;
+}
+.page-hero{
+    height: 500px;
+    
+}
+.list-group-item{
+    background-color: #f1f1f1;
+}
